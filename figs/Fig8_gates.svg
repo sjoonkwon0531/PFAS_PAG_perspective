@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="963pt" height="369.216pt" viewBox="0 0 963 369.216" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-15T10:36:28.730357</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 369.216 
+L 963 369.216 
+L 963 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 25.497868 305.4144 
+L 144.915533 305.4144 
+Q 156.472081 305.4144 156.472081 295.2768 
+L 156.472081 48.5952 
+Q 156.472081 38.4576 144.915533 38.4576 
+L 25.497868 38.4576 
+Q 13.94132 38.4576 13.94132 48.5952 
+L 13.94132 295.2768 
+Q 13.94132 305.4144 25.497868 305.4144 
+z
+" clip-path="url(#p864b1eada3)" style="fill: #a4c5ee; stroke: #2a78d6; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 181.511269 305.4144 
+L 300.928934 305.4144 
+Q 312.485482 305.4144 312.485482 295.2768 
+L 312.485482 48.5952 
+Q 312.485482 38.4576 300.928934 38.4576 
+L 181.511269 38.4576 
+Q 169.954721 38.4576 169.954721 48.5952 
+L 169.954721 295.2768 
+Q 169.954721 305.4144 181.511269 305.4144 
+z
+" clip-path="url(#p864b1eada3)" style="fill: #eef4fc; stroke: #2a78d6; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 337.52467 305.4144 
+L 456.942335 305.4144 
+Q 468.498883 305.4144 468.498883 295.2768 
+L 468.498883 48.5952 
+Q 468.498883 38.4576 456.942335 38.4576 
+L 337.52467 38.4576 
+Q 325.968122 38.4576 325.968122 48.5952 
+L 325.968122 295.2768 
+Q 325.968122 305.4144 337.52467 305.4144 
+z
+" clip-path="url(#p864b1eada3)" style="fill: #f4f3f0; stroke: #e4e3df; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 493.538071 305.4144 
+L 612.955736 305.4144 
+Q 624.512284 305.4144 624.512284 295.2768 
+L 624.512284 48.5952 
+Q 624.512284 38.4576 612.955736 38.4576 
+L 493.538071 38.4576 
+Q 481.981523 38.4576 481.981523 48.5952 
+L 481.981523 295.2768 
+Q 481.981523 305.4144 493.538071 305.4144 
+z
+" clip-path="url(#p864b1eada3)" style="fill: #f4f3f0; stroke: #e4e3df; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 649.551472 305.4144 
+L 768.969137 305.4144 
+Q 780.525685 305.4144 780.525685 295.2768 
+L 780.525685 48.5952 
+Q 780.525685 38.4576 768.969137 38.4576 
+L 649.551472 38.4576 
+Q 637.994924 38.4576 637.994924 48.5952 
+L 637.994924 295.2768 
+Q 637.994924 305.4144 649.551472 305.4144 
+z
+" clip-path="url(#p864b1eada3)" style="fill: #f4f3f0; stroke: #e4e3df; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 805.564873 305.4144 
+L 924.982538 305.4144 
+Q 936.539086 305.4144 936.539086 295.2768 
+L 936.539086 48.5952 
+Q 936.539086 38.4576 924.982538 38.4576 
+L 805.564873 38.4576 
+Q 794.008325 38.4576 794.008325 48.5952 
+L 794.008325 295.2768 
+Q 794.008325 305.4144 805.564873 305.4144 
+z
+" clip-path="url(#p864b1eada3)" style="fill: #f4f3f0; stroke: #e4e3df; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #2a78d6" x="26.460914" y="82.946" transform="rotate(-0 26.460914 82.946)">1</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(51.500102 70.4775)">Chemical</text>
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(51.500102 87.775773)">screening</text>
+   </g>
+   <g id="text_3">
+    <text style="font-style: italic; font-size: 12px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="26.460914" y="127.3896" transform="rotate(-0 26.460914 127.3896)">Observables</text>
+   </g>
+   <g id="text_4">
+    <!-- effective activity $\kappa$, -->
+    <g style="fill: #0b0b0b" transform="translate(26.460914 152.259225)">
+     <text>
+      <tspan x="0" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">e</tspan>
+      <tspan x="5.162521" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">f</tspan>
+      <tspan x="8.375031" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">f</tspan>
+      <tspan x="11.58754" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">e</tspan>
+      <tspan x="16.750061" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">c</tspan>
+      <tspan x="21.200073" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">t</tspan>
+      <tspan x="24.637589" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">i</tspan>
+      <tspan x="27.350098" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">v</tspan>
+      <tspan x="32.200119" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">e</tspan>
+      <tspan x="37.36264" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b"> </tspan>
+      <tspan x="40.01265" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">a</tspan>
+      <tspan x="45.012665" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">c</tspan>
+      <tspan x="49.462677" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">t</tspan>
+      <tspan x="52.900192" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">i</tspan>
+      <tspan x="55.612701" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">v</tspan>
+      <tspan x="60.462723" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">i</tspan>
+      <tspan x="63.175232" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">t</tspan>
+      <tspan x="66.612747" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">y</tspan>
+      <tspan x="71.312759" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b"> </tspan>
+      <tspan x="79.862793" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">,</tspan>
+      <tspan x="73.962769" y="-0.171875" style="font-style: italic; font-size: 12.5px; font-family: 'STIXNonUnicode'; fill: #0b0b0b"></tspan>
+     </text>
+    </g>
+    <!-- acid yield $\phi$, absorption $\alpha$, -->
+    <g style="fill: #0b0b0b" transform="translate(26.460914 170.797975)">
+     <text>
+      <tspan x="0" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">a</tspan>
+      <tspan x="5.000015" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">c</tspan>
+      <tspan x="9.450027" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">i</tspan>
+      <tspan x="12.162537" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">d</tspan>
+      <tspan x="17.575058" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b"> </tspan>
+      <tspan x="20.225067" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">y</tspan>
+      <tspan x="24.925079" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">i</tspan>
+      <tspan x="27.637589" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">e</tspan>
+      <tspan x="32.80011" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">l</tspan>
+      <tspan x="35.712616" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">d</tspan>
+      <tspan x="41.125137" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b"> </tspan>
+      <tspan x="51.875183" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">,</tspan>
+      <tspan x="54.200195" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b"> </tspan>
+      <tspan x="56.850204" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">a</tspan>
+      <tspan x="61.85022" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">b</tspan>
+      <tspan x="67.275238" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">s</tspan>
+      <tspan x="71.500259" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">o</tspan>
+      <tspan x="76.900284" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">r</tspan>
+      <tspan x="80.325302" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">p</tspan>
+      <tspan x="85.762817" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">t</tspan>
+      <tspan x="89.200333" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">i</tspan>
+      <tspan x="91.912842" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">o</tspan>
+      <tspan x="97.312866" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">n</tspan>
+      <tspan x="102.800385" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b"> </tspan>
+      <tspan x="112.775421" y="-0.171875" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">,</tspan>
+      <tspan x="43.775146" y="-0.171875" style="font-style: italic; font-size: 12.5px; font-family: 'STIXNonUnicode'; fill: #0b0b0b"></tspan>
+      <tspan x="105.450394" y="-0.171875" style="font-style: italic; font-size: 12.5px; font-family: 'STIXNonUnicode'; fill: #0b0b0b"></tspan>
+     </text>
+    </g>
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(26.460914 189.53692)">Eq. 17 criterion</text>
+   </g>
+   <g id="text_5">
+    <text style="font-style: italic; font-size: 12px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="26.460914" y="238.0584" transform="rotate(-0 26.460914 238.0584)">Decision</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(26.460914 264.139939)">Which candidates</text>
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(26.460914 281.535134)">to synthesize</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2a78d6" x="85.206701" y="338.1074" transform="rotate(-0 85.206701 338.1074)">computed here</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 160.39621 176.16 
+Q 165.138936 176.16 168.092807 176.16 
+" style="fill: none; stroke: #52514e; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 161.692807 172.96 
+L 168.092807 176.16 
+L 161.692807 179.36 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #2a78d6" x="182.474315" y="82.946" transform="rotate(-0 182.474315 82.946)">2</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(207.513503 70.462773)">Film</text>
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(207.513503 89.218977)">kinetics</text>
+   </g>
+   <g id="text_10">
+    <text style="font-style: italic; font-size: 12px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="182.474315" y="127.3896" transform="rotate(-0 182.474315 127.3896)">Observables</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(182.474315 152.296334)">deprotection vs bake</text>
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(182.474315 170.822389)">time at saturating dose;</text>
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(182.474315 190.673639)">acid diffusion</text>
+   </g>
+   <g id="text_12">
+    <text style="font-style: italic; font-size: 12px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="182.474315" y="238.0584" transform="rotate(-0 182.474315 238.0584)">Decision</text>
+   </g>
+   <g id="text_13">
+    <!-- Is $\kappa = \kappa_{acid}s_{PG}$ -->
+    <g style="fill: #0b0b0b" transform="translate(182.474315 263.178025)">
+     <text>
+      <tspan x="0" y="-0.25" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">I</tspan>
+      <tspan x="2.912506" y="-0.25" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">s</tspan>
+      <tspan x="7.137527" y="-0.25" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b"> </tspan>
+      <tspan x="17.315067" y="-0.25" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">=</tspan>
+      <tspan x="42.754527" y="-0.25" style="font-size: 12.5px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">s</tspan>
+      <tspan x="9.787537" y="-0.25" style="font-style: italic; font-size: 12.5px; font-family: 'STIXNonUnicode'; fill: #0b0b0b"></tspan>
+      <tspan x="24.130087" y="-0.25" style="font-style: italic; font-size: 12.5px; font-family: 'STIXNonUnicode'; fill: #0b0b0b"></tspan>
+      <tspan x="30.139487" y="1.625" style="font-size: 8.75px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">a</tspan>
+      <tspan x="33.639497" y="1.625" style="font-size: 8.75px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">c</tspan>
+      <tspan x="36.754506" y="1.625" style="font-size: 8.75px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">i</tspan>
+      <tspan x="38.653262" y="1.625" style="font-size: 8.75px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">d</tspan>
+      <tspan x="46.979549" y="1.625" style="font-size: 8.75px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">P</tspan>
+      <tspan x="50.925818" y="1.625" style="font-size: 8.75px; font-family: 'PT Sans Narrow'; font-stretch: condensed; fill: #0b0b0b">G</tspan>
+     </text>
+    </g>
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(182.474315 281.60447)">separable?</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #2a78d6" transform="translate(208.709359 329.948455)">measurements</text>
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #2a78d6" transform="translate(209.326547 347.00365)">proposed here</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 316.409611 176.16 
+Q 321.152337 176.16 324.106208 176.16 
+" style="fill: none; stroke: #52514e; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 317.706208 172.96 
+L 324.106208 176.16 
+L 317.706208 179.36 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #8a8985" x="338.487716" y="82.946" transform="rotate(-0 338.487716 82.946)">3</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(363.526904 69.012773)">Patterning</text>
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(363.526904 89.218977)">window</text>
+   </g>
+   <g id="text_17">
+    <text style="font-style: italic; font-size: 12px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="338.487716" y="127.3896" transform="rotate(-0 338.487716 127.3896)">Observables</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(338.487716 152.640084)">dose, LWR, EL and a</text>
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(338.487716 172.072389)">defect metric at the</text>
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(338.487716 189.423639)">target pitch</text>
+   </g>
+   <g id="text_19">
+    <text style="font-style: italic; font-size: 12px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="338.487716" y="238.0584" transform="rotate(-0 338.487716 238.0584)">Decision</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(338.487716 262.965134)">Matched-performance</text>
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(338.487716 281.566384)">comparison</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 472.423012 176.16 
+Q 477.165738 176.16 480.119609 176.16 
+" style="fill: none; stroke: #52514e; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 473.719609 172.96 
+L 480.119609 176.16 
+L 473.719609 179.36 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #8a8985" x="494.501117" y="82.946" transform="rotate(-0 494.501117 82.946)">4</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(519.540305 70.383477)">Etch and</text>
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(519.540305 89.218977)">contamination</text>
+   </g>
+   <g id="text_23">
+    <text style="font-style: italic; font-size: 12px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="494.501117" y="127.3896" transform="rotate(-0 494.501117 127.3896)">Observables</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(494.501117 152.627389)">etch transfer,</text>
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(494.501117 170.822389)">outgassing, metal and</text>
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(494.501117 189.467584)">ionic purity</text>
+   </g>
+   <g id="text_25">
+    <text style="font-style: italic; font-size: 12px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="494.501117" y="238.0584" transform="rotate(-0 494.501117 238.0584)">Decision</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0b0b0b" x="494.501117" y="262.94658" transform="rotate(-0 494.501117 262.94658)">Process compatibility</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 628.436413 176.16 
+Q 633.179139 176.16 636.13301 176.16 
+" style="fill: none; stroke: #52514e; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 629.73301 172.96 
+L 636.13301 176.16 
+L 629.73301 179.36 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #8a8985" x="650.514518" y="82.946" transform="rotate(-0 650.514518 82.946)">5</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(675.553706 70.383477)">Module</text>
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(675.553706 87.863)">qualification</text>
+   </g>
+   <g id="text_29">
+    <text style="font-style: italic; font-size: 12px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="650.514518" y="127.3896" transform="rotate(-0 650.514518 127.3896)">Observables</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(650.514518 152.265084)">defectivity, stability,</text>
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(650.514518 170.87317)">supply specification</text>
+   </g>
+   <g id="text_31">
+    <text style="font-style: italic; font-size: 12px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="650.514518" y="238.0584" transform="rotate(-0 650.514518 238.0584)">Decision</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0b0b0b" x="650.514518" y="264.10283" transform="rotate(-0 650.514518 264.10283)">Module release</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 784.449814 176.16 
+Q 789.19254 176.16 792.146411 176.16 
+" style="fill: none; stroke: #52514e; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 785.746411 172.96 
+L 792.146411 176.16 
+L 785.746411 179.36 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #8a8985" x="806.527919" y="82.946" transform="rotate(-0 806.527919 82.946)">6</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(831.567107 70.383477)">Lot-level</text>
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(831.567107 89.218977)">validation</text>
+   </g>
+   <g id="text_35">
+    <text style="font-style: italic; font-size: 12px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="806.527919" y="127.3896" transform="rotate(-0 806.527919 127.3896)">Observables</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(806.527919 152.265084)">yield, reliability,</text>
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(806.527919 170.866334)">inventory and emission</text>
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(806.527919 189.430475)">per accepted layer</text>
+   </g>
+   <g id="text_37">
+    <text style="font-style: italic; font-size: 12px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="806.527919" y="238.0584" transform="rotate(-0 806.527919 238.0584)">Decision</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(806.527919 262.97783)">Product qualification</text>
+    <text style="font-size: 12.5px; font-family: 'Arial Narrow', 'PT Sans Narrow', 'Liberation Sans Narrow', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(806.527919 282.779275)">and LCA</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p864b1eada3">
+   <rect x="7.2" y="7.2" width="948.6" height="354.816"/>
+  </clipPath>
+ </defs>
+</svg>
